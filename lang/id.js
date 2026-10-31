@@ -170,7 +170,7 @@ window.SITE_LANG={
 "License":"Lisensi",
 "More":"Lainnya",
 "Release notes on GitHub ↗":"Catatan rilis di GitHub ↗",
-"Version 0.1.0 beta 21 · Windows 10 and 11 · ":"Versi 0.1.0 beta 21 · Windows 10 dan 11 · ",
+"Version 0.1.0 beta 22 · Windows 10 and 11 · ":"Versi 0.1.0 beta 22 · Windows 10 dan 11 · ",
 "♡ Support on Ko-fi ↗":"♡ Dukung di Ko-fi ↗",
 "LOCAL WEBSITE MOCKUP":"MOCKUP SITUS LOKAL",
 "Pause motion":"Jeda animasi",
