@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:"准备就绪",
  narratedBy:"朗读者：",
  text:{
+  "Visits": "访问次数",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"晚上好。下一章正在等你。",
 "Some stories are better after dark.":"有些故事，适合在夜里读。",
 "The door is open.":"门已敞开。",

@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:"Okumaya hazır",
  narratedBy:"Seslendiren",
  text:{
+  "Visits": "Ziyaret",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"İYİ AKŞAMLAR. SIRADAKİ BÖLÜMÜNÜZ SİZİ BEKLİYOR.",
 "Some stories are better after dark.":"Bazı hikâyeler karanlık çökünce daha güzeldir.",
 "The door is open.":"Kapı açık.",

@@ -11,6 +11,7 @@ window.SITE_LANG={
  "ready": "Готово к чтению",
  "narratedBy": "Читает",
  "text": {
+  "Visits": "Посещения",
   "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.": "ДОБРЫЙ ВЕЧЕР. ВАША СЛЕДУЮЩАЯ ГЛАВА ЖДЁТ.",
   "Some stories are better after dark.": "Некоторые истории лучше читать после заката.",
   "The door is open.": "Дверь открыта.",

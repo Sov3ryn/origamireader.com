@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:'पढ़ने के लिए तैयार',
  narratedBy:'वाचक',
  text:{
+  "Visits": "विज़िट",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"शुभ संध्या। आपका अगला अध्याय इंतज़ार कर रहा है।",
 "Some stories are better after dark.":"कुछ कहानियाँ अँधेरा होने के बाद ही रंग लाती हैं।",
 "The door is open.":"दरवाज़ा खुला है।",

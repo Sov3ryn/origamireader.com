@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:"準備完了",
  narratedBy:"ナレーター:",
  text:{
+  "Visits": "訪問数",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"こんばんは。次の章が待っています。",
 "Some stories are better after dark.":"夜にこそ味わいたい物語があります。",
 "The door is open.":"扉は開いています。",

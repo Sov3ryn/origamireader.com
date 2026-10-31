@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:"Klaar om te lezen",
  narratedBy:"Voorgelezen door",
  text:{
+  "Visits": "Bezoeken",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"GOEDENAVOND. JE VOLGENDE HOOFDSTUK WACHT.",
 "Some stories are better after dark.":"Sommige verhalen zijn mooier als het donker is.",
 "The door is open.":"De deur staat open.",

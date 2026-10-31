@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:"Siap dibaca",
  narratedBy:"Dibacakan oleh",
  text:{
+  "Visits": "Kunjungan",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"SELAMAT MALAM. BAB BERIKUTNYA MENANTI ANDA.",
 "Some stories are better after dark.":"Ada cerita yang lebih nikmat setelah gelap.",
 "The door is open.":"Pintunya terbuka.",

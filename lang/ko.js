@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:"읽을 준비 완료",
  narratedBy:"낭독:",
  text:{
+  "Visits": "방문 수",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"좋은 저녁입니다. 다음 장이 기다리고 있어요.",
 "Some stories are better after dark.":"어떤 이야기는 밤에 더 깊어집니다.",
 "The door is open.":"문이 열려 있습니다.",

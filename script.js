@@ -108,3 +108,14 @@ $('#try-reader').onclick=event=>{
  history.replaceState(null,'','#reader');
 };
 syncReaderInvitation();
+
+// Visit counter: counts once per browser session; local previews only read it.
+(()=>{const el=document.querySelector('.visit-counter');if(!el)return;
+ const local=!/origamireader\.com$/.test(location.hostname);let seen=local;
+ try{seen=seen||sessionStorage.getItem('origami-visit-counted')==='1';}catch{}
+ fetch('https://abacus.jasoncameron.dev/'+(seen?'get':'hit')+'/origamireader-com/visits').then(r=>r.ok?r.json():Promise.reject()).then(d=>{
+  if(typeof d.value!=='number')return;
+  if(!local)try{sessionStorage.setItem('origami-visit-counted','1');}catch{}
+  el.querySelector('b').textContent=d.value.toLocaleString(document.documentElement.lang||undefined);el.hidden=false;
+ }).catch(()=>{});
+})();

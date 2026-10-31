@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:"พร้อมอ่าน",
  narratedBy:"บรรยายโดย",
  text:{
+  "Visits": "การเข้าชม",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"สวัสดียามค่ำ บทถัดไปกำลังรอคุณอยู่",
 "Some stories are better after dark.":"บางเรื่องก็ได้อรรถรสยิ่งกว่าเมื่อฟ้ามืด",
 "The door is open.":"ประตูเปิดอยู่แล้ว",

@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:"Sẵn sàng đọc",
  narratedBy:"Đọc bởi",
  text:{
+  "Visits": "Lượt truy cập",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"CHÀO BUỔI TỐI. CHƯƠNG TIẾP THEO ĐANG ĐỢI BẠN.",
 "Some stories are better after dark.":"Có những câu chuyện hay hơn khi màn đêm buông xuống.",
 "The door is open.":"Cánh cửa đã mở.",

@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:'Pronto da leggere',
  narratedBy:'Letto da',
  text:{
+  "Visits": "Visite",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"BUONASERA. IL TUO PROSSIMO CAPITOLO TI ASPETTA.",
 "Some stories are better after dark.":"Certe storie si gustano meglio col buio.",
 "The door is open.":"La porta è aperta.",

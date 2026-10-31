@@ -11,6 +11,7 @@ window.SITE_LANG={
  ready:'جاهز للقراءة',
  narratedBy:'بصوت',
  text:{
+  "Visits": "الزيارات",
 "GOOD EVENING. YOUR NEXT CHAPTER AWAITS.":"مساء الخير. فصلك التالي في انتظارك.",
 "Some stories are better after dark.":"بعض الحكايات أجمل بعد حلول الظلام.",
 "The door is open.":"الباب مفتوح.",
