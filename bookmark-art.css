@@ -162,7 +162,7 @@
 }
 .bookmark-detail-sheen { animation:bookmark-detail-sheen 16s ease-in-out infinite; }
 .bookmark-detail-ribbon-sheen { animation:bookmark-detail-ribbon-sheen 14s linear infinite; }
-.bookmark-foil { mix-blend-mode:screen; }
+.bookmark-foil { opacity:.7; }
 .bookmark-foil-spectrum { animation:bookmark-foil-spectrum 13s ease-in-out infinite; transform-origin:512px 768px; }
 .bookmark-foil-flash { animation:bookmark-foil-flash 11s ease-in-out infinite; }
 .bookmark-foil-iridescent .bookmark-foil-spectrum { animation-duration:17s; animation-delay:-4s; opacity:.8; }
