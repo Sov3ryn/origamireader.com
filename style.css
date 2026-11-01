@@ -112,5 +112,8 @@ main.wrap{position:relative;z-index:1}
 .video-poster:hover .video-play-icon,.video-poster:focus-visible .video-play-icon{transform:scale(1.08)}
 .video-title{position:absolute;z-index:1;inset-inline:28px;bottom:24px;text-align:start;font-size:20px;font-weight:600;line-height:1.3}
 @media(max-width:560px){.video-play-icon{width:60px;height:60px;font-size:22px}.video-title{inset-inline:16px;bottom:14px;font-size:15px}}
-.video-section .demo-note{text-align:center}
+.video-section{padding-top:150px}.video-section .section-heading{margin-bottom:50px}
+.video-actions{display:flex;justify-content:center;margin-top:40px}
+.video-section .demo-note{text-align:center;margin-top:22px}
+@media(max-width:560px){.video-section{padding-top:85px}.video-section .section-heading{margin-bottom:28px}.video-actions{margin-top:26px}.video-actions .button{width:100%;justify-content:center}}
 @media(prefers-reduced-motion:reduce){.video-play-icon{transition:none}}
