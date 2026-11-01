@@ -213,6 +213,27 @@ window.SITE_LANG={
 "Pause generated voice example":"Tạm dừng ví dụ giọng đã tạo",
 "Voice creation examples":"Ví dụ tạo giọng đọc",
 "This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"Đây là bản dựng thử website cục bộ. Nút tải cho Windows sẽ được kết nối với bản phát hành trước khi công bố. Linux và macOS sẽ có trong một phiên bản sau.",
-"The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"Website chính thức sẽ liên kết đến Ko-fi của Sov3ryn. Quyên góp tùy tâm. Mọi tính năng của Origami vẫn miễn phí."
-}
+"The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"Website chính thức sẽ liên kết đến Ko-fi của Sov3ryn. Quyên góp tùy tâm. Mọi tính năng của Origami vẫn miễn phí.",
+"Windows may warn you because this beta is not signed. See how to install ↓":"Windows có thể hiện cảnh báo vì bản beta này chưa được ký. Xem cách cài đặt ↓",
+"If Windows shows a warning":"Nếu Windows hiện cảnh báo",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Nếu Windows báo không nhận ra ứng dụng (bản beta này chưa được ký), hãy chọn Thông tin thêm, rồi chọn Vẫn chạy.",
+"Windows protected your PC":"Windows đã bảo vệ PC của bạn",
+"More info":"Thông tin thêm",
+"Run anyway":"Vẫn chạy",
+"Don't run":"Không chạy",
+"Choose More info":"Chọn Thông tin thêm",
+"Choose Run anyway":"Chọn Vẫn chạy",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows hiện thông báo này cho các ứng dụng mới chưa có chứng chỉ ký mã trả phí. Điều đó nghĩa là Windows chưa biết ứng dụng, không phải đã tìm thấy vấn đề. Đừng tắt bảo mật Windows.",
+"Source-available and safe to run":"Mã nguồn công khai và an toàn để chạy",
+"Source-available":"Mã nguồn công khai",
+"The full source code is public on GitHub, so anyone can check what the app does.":"Toàn bộ mã nguồn được công khai trên GitHub, nên ai cũng có thể kiểm tra ứng dụng làm gì.",
+"Read the source code ↗":"Đọc mã nguồn ↗",
+"Private":"Riêng tư",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"Không tài khoản, quảng cáo, phân tích hay theo dõi. Sách và ghi chú của bạn ở lại trên máy tính của bạn.",
+"Check your download":"Kiểm tra tệp đã tải",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"Mỗi bản phát hành trên GitHub đều có tệp tổng kiểm SHA-256 để bạn xác nhận trình cài đặt là bản gốc.",
+"Checksums on GitHub ↗":"Tổng kiểm trên GitHub ↗",
+"Official downloads only":"Chỉ tải bản chính thức",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Chỉ tải Origami từ origamireader.com hoặc github.com/Sov3ryn."
+ }
 };

@@ -57,6 +57,27 @@ window.SITE_LANG={
 "SIX BOOKS TO BEGIN YOUR JOURNEY":"旅の始まりに六冊の本を","Your first shelf,":"最初の本棚を、","in 20 languages.":"20 の言語で。","Origami includes six starter books, available in 20 languages. Pick your language and start reading.":"Origami には、20 の言語で読める六冊の入門書が付いています。言語を選んで、読み始めましょう。","Book languages and voice collections are separate. English and French voice examples are available here; more voice languages are in development.":"本の言語と音声コレクションは別々です。ここでは英語とフランス語の音声サンプルを聴けます。ほかの言語の音声は開発中です。",
 "Language":"言語","Automatic":"自動","Browser language detected. You can change it anytime.":"ブラウザーの言語を検出しました。いつでも変更できます。",
 "Appearance settings":"外観の設定","Customize preview appearance":"プレビューの外観をカスタマイズ","Close appearance":"外観を閉じる","Close preview notice":"プレビューのお知らせを閉じる","Play Dracula":"Dracula を再生","Pause Dracula":"Dracula を一時停止","Play voice sample":"音声サンプルを再生","Pause voice sample":"音声サンプルを一時停止","Stop voice sample":"音声サンプルを停止","Previous pages":"前のページ","Next pages":"次のページ","Paper type":"紙の種類","Narration speed":"朗読の速度","Voice sample speed":"音声サンプルの速度","Preview modes":"プレビューモード","Play generated voice example":"生成した音声の例を再生","Pause generated voice example":"生成した音声の例を一時停止","Voice creation examples":"音声作成の例",
-"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"これはローカルのサイトモックアップです。公開前に、Windows のダウンロードをリリース版につなげます。Linux 版と macOS 版は今後のリリースで提供予定です。","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"公開サイトでは Sov3ryn の Ko-fi にリンクします。寄付は自由な金額で。Origami のすべての機能は無料のままです。"
-}
+"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"これはローカルのサイトモックアップです。公開前に、Windows のダウンロードをリリース版につなげます。Linux 版と macOS 版は今後のリリースで提供予定です。","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"公開サイトでは Sov3ryn の Ko-fi にリンクします。寄付は自由な金額で。Origami のすべての機能は無料のままです。",
+"Windows may warn you because this beta is not signed. See how to install ↓":"このベータ版は署名されていないため、Windows が警告を表示することがあります。インストール方法を見る ↓",
+"If Windows shows a warning":"Windows に警告が表示された場合",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Windows がアプリを認識できないと表示した場合（このベータ版は署名されていません）、「詳細情報」を選び、次に「実行」を選んでください。",
+"Windows protected your PC":"Windows によって PC が保護されました",
+"More info":"詳細情報",
+"Run anyway":"実行",
+"Don't run":"実行しない",
+"Choose More info":"「詳細情報」を選ぶ",
+"Choose Run anyway":"「実行」を選ぶ",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"有料のコード署名証明書をまだ持たない新しいアプリに対して、Windows はこの表示を出します。Windows がまだアプリを知らないという意味で、問題が見つかったわけではありません。Windows のセキュリティは無効にしないでください。",
+"Source-available and safe to run":"ソースコード公開、安心して実行できます",
+"Source-available":"ソースコード公開",
+"The full source code is public on GitHub, so anyone can check what the app does.":"ソースコードはすべて GitHub で公開されているため、誰でもアプリの動作を確認できます。",
+"Read the source code ↗":"ソースコードを読む ↗",
+"Private":"プライバシー",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"アカウント、広告、分析、トラッキングはありません。本やメモはお使いのコンピューターに保存されます。",
+"Check your download":"ダウンロードを確認する",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub の各リリースには SHA-256 チェックサムファイルが含まれ、インストーラーが本物であることを確認できます。",
+"Checksums on GitHub ↗":"GitHub のチェックサム ↗",
+"Official downloads only":"公式ダウンロードのみ",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami は origamireader.com または github.com/Sov3ryn からのみダウンロードしてください。"
+ }
 };

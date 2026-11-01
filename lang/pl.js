@@ -57,6 +57,27 @@ window.SITE_LANG={
 "SIX BOOKS TO BEGIN YOUR JOURNEY":"SZEŚĆ KSIĄŻEK NA POCZĄTEK PODRÓŻY","Your first shelf,":"Twoja pierwsza półka,","in 20 languages.":"w 20 językach.","Origami includes six starter books, available in 20 languages. Pick your language and start reading.":"Origami zawiera sześć książek na start, dostępnych w 20 językach. Wybierz język i zacznij czytać.","Book languages and voice collections are separate. English and French voice examples are available here; more voice languages are in development.":"Języki książek i kolekcje głosów to osobne sprawy. Tutaj znajdziesz przykłady głosów angielskich i francuskich; głosy w kolejnych językach są w przygotowaniu.",
 "Language":"Język","Automatic":"Automatycznie","Browser language detected. You can change it anytime.":"Wykryto język przeglądarki. Możesz go zmienić w dowolnej chwili.",
 "Appearance settings":"Ustawienia wyglądu","Customize preview appearance":"Dostosuj wygląd podglądu","Close appearance":"Zamknij ustawienia wyglądu","Close preview notice":"Zamknij komunikat","Play Dracula":"Odtwórz Draculę","Pause Dracula":"Wstrzymaj Draculę","Play voice sample":"Odtwórz próbkę głosu","Pause voice sample":"Wstrzymaj próbkę głosu","Stop voice sample":"Zatrzymaj próbkę głosu","Previous pages":"Poprzednie strony","Next pages":"Następne strony","Paper type":"Rodzaj papieru","Narration speed":"Tempo narracji","Voice sample speed":"Tempo próbki głosu","Preview modes":"Tryby podglądu","Play generated voice example":"Odtwórz wygenerowany przykład głosu","Pause generated voice example":"Wstrzymaj wygenerowany przykład głosu","Voice creation examples":"Przykłady tworzenia głosów",
-"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"To jest lokalna makieta strony. Przed publikacją pobieranie dla Windows zostanie połączone z wydaniem. Linux i macOS pojawią się w późniejszej wersji.","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"Docelowa strona będzie prowadzić do Ko-fi Sov3ryn. Wesprzyj, ile chcesz. Wszystkie funkcje Origami pozostają bezpłatne."
-}
+"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"To jest lokalna makieta strony. Przed publikacją pobieranie dla Windows zostanie połączone z wydaniem. Linux i macOS pojawią się w późniejszej wersji.","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"Docelowa strona będzie prowadzić do Ko-fi Sov3ryn. Wesprzyj, ile chcesz. Wszystkie funkcje Origami pozostają bezpłatne.",
+"Windows may warn you because this beta is not signed. See how to install ↓":"Windows może wyświetlić ostrzeżenie, bo ta wersja beta nie jest podpisana. Jak ją zainstalować ↓",
+"If Windows shows a warning":"Jeśli Windows wyświetli ostrzeżenie",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Jeśli Windows informuje, że nie rozpoznaje aplikacji (ta wersja beta nie jest podpisana), wybierz Więcej informacji, a potem Uruchom mimo to.",
+"Windows protected your PC":"System Windows ochronił Twój komputer",
+"More info":"Więcej informacji",
+"Run anyway":"Uruchom mimo to",
+"Don't run":"Nie uruchamiaj",
+"Choose More info":"Wybierz Więcej informacji",
+"Choose Run anyway":"Wybierz Uruchom mimo to",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows pokazuje to przy nowych aplikacjach, które nie mają jeszcze płatnego certyfikatu podpisywania kodu. Oznacza to, że Windows jeszcze nie zna aplikacji, a nie że znalazł problem. Nie wyłączaj zabezpieczeń Windows.",
+"Source-available and safe to run":"Kod źródłowy dostępny i bezpieczne uruchamianie",
+"Source-available":"Kod źródłowy dostępny",
+"The full source code is public on GitHub, so anyone can check what the app does.":"Pełny kod źródłowy jest publiczny w serwisie GitHub, więc każdy może sprawdzić, co robi aplikacja.",
+"Read the source code ↗":"Przeczytaj kod źródłowy ↗",
+"Private":"Prywatność",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"Bez konta, reklam, analityki i śledzenia. Twoje książki i notatki zostają na Twoim komputerze.",
+"Check your download":"Sprawdź pobrany plik",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"Każde wydanie w serwisie GitHub zawiera plik sumy kontrolnej SHA-256, dzięki któremu potwierdzisz, że instalator jest oryginalny.",
+"Checksums on GitHub ↗":"Sumy kontrolne w serwisie GitHub ↗",
+"Official downloads only":"Tylko oficjalne pobieranie",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Pobieraj Origami tylko z origamireader.com lub github.com/Sov3ryn."
+ }
 };

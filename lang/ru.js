@@ -213,6 +213,27 @@ window.SITE_LANG={
   "Pause generated voice example": "Приостановить сгенерированный голос",
   "Voice creation examples": "Примеры создания голоса",
   "This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.": "Это локальный макет сайта. Перед публикацией загрузка для Windows будет связана с выпуском. Linux и macOS появятся в одной из следующих версий.",
-  "The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.": "На сайте будет ссылка на Ko-fi Sov3ryn. Жертвуйте сколько хотите. Все функции Origami остаются бесплатными."
+  "The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.": "На сайте будет ссылка на Ko-fi Sov3ryn. Жертвуйте сколько хотите. Все функции Origami остаются бесплатными.",
+"Windows may warn you because this beta is not signed. See how to install ↓":"Windows может показать предупреждение: эта бета-версия не подписана. Как установить ↓",
+"If Windows shows a warning":"Если Windows показывает предупреждение",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Если Windows сообщает, что не распознаёт приложение (эта бета-версия не подписана), выберите «Подробнее», затем «Выполнить в любом случае».",
+"Windows protected your PC":"Система Windows защитила ваш компьютер",
+"More info":"Подробнее",
+"Run anyway":"Выполнить в любом случае",
+"Don't run":"Не выполнять",
+"Choose More info":"Выберите «Подробнее»",
+"Choose Run anyway":"Выберите «Выполнить в любом случае»",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows показывает это для новых приложений, у которых ещё нет платного сертификата подписи кода. Это значит, что Windows пока не знает приложение, а не что найдена проблема. Не отключайте защиту Windows.",
+"Source-available and safe to run":"Открытый для просмотра код и безопасный запуск",
+"Source-available":"Исходный код доступен",
+"The full source code is public on GitHub, so anyone can check what the app does.":"Полный исходный код опубликован на GitHub, поэтому любой может проверить, что делает приложение.",
+"Read the source code ↗":"Читать исходный код ↗",
+"Private":"Конфиденциальность",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"Без учётной записи, рекламы, аналитики и отслеживания. Ваши книги и заметки остаются на вашем компьютере.",
+"Check your download":"Проверьте загрузку",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"Каждый выпуск на GitHub содержит файл контрольной суммы SHA-256, чтобы вы могли убедиться, что установщик оригинальный.",
+"Checksums on GitHub ↗":"Контрольные суммы на GitHub ↗",
+"Official downloads only":"Только официальные загрузки",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Скачивайте Origami только с origamireader.com или github.com/Sov3ryn."
  }
 };

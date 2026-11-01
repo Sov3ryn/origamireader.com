@@ -213,6 +213,27 @@ window.SITE_LANG={
 "Pause generated voice example":"Jeda contoh suara buatan",
 "Voice creation examples":"Contoh pembuatan suara",
 "This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"Ini adalah mockup situs lokal. Unduhan Windows akan dihubungkan ke rilisnya sebelum dipublikasikan. Linux dan macOS akan tersedia di rilis berikutnya.",
-"The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"Situs resminya akan menautkan ke Ko-fi milik Sov3ryn. Berdonasi seikhlasnya. Semua fitur Origami tetap gratis."
-}
+"The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"Situs resminya akan menautkan ke Ko-fi milik Sov3ryn. Berdonasi seikhlasnya. Semua fitur Origami tetap gratis.",
+"Windows may warn you because this beta is not signed. See how to install ↓":"Windows mungkin menampilkan peringatan karena beta ini belum ditandatangani. Lihat cara memasang ↓",
+"If Windows shows a warning":"Jika Windows menampilkan peringatan",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Jika Windows mengatakan tidak mengenali aplikasi ini (beta ini belum ditandatangani), pilih Info selengkapnya, lalu Tetap jalankan.",
+"Windows protected your PC":"Windows melindungi PC Anda",
+"More info":"Info selengkapnya",
+"Run anyway":"Tetap jalankan",
+"Don't run":"Jangan jalankan",
+"Choose More info":"Pilih Info selengkapnya",
+"Choose Run anyway":"Pilih Tetap jalankan",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows menampilkan ini untuk aplikasi baru yang belum memiliki sertifikat penandatanganan kode berbayar. Artinya Windows belum mengenal aplikasi ini, bukan berarti menemukan masalah. Jangan matikan keamanan Windows.",
+"Source-available and safe to run":"Kode sumber tersedia dan aman dijalankan",
+"Source-available":"Kode sumber tersedia",
+"The full source code is public on GitHub, so anyone can check what the app does.":"Seluruh kode sumber terbuka untuk umum di GitHub, jadi siapa pun dapat memeriksa apa yang dilakukan aplikasi.",
+"Read the source code ↗":"Baca kode sumber ↗",
+"Private":"Privat",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"Tanpa akun, iklan, analitik, atau pelacakan. Buku dan catatan Anda tetap di komputer Anda.",
+"Check your download":"Periksa unduhan Anda",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"Setiap rilis di GitHub menyertakan file checksum SHA-256 agar Anda dapat memastikan penginstal adalah yang asli.",
+"Checksums on GitHub ↗":"Checksum di GitHub ↗",
+"Official downloads only":"Hanya unduhan resmi",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Unduh Origami hanya dari origamireader.com atau github.com/Sov3ryn."
+ }
 };

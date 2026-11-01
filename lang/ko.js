@@ -57,6 +57,27 @@ window.SITE_LANG={
 "SIX BOOKS TO BEGIN YOUR JOURNEY":"여정을 시작할 여섯 권의 책","Your first shelf,":"당신의 첫 책장,","in 20 languages.":"20개 언어로.","Origami includes six starter books, available in 20 languages. Pick your language and start reading.":"Origami에는 20개 언어로 읽을 수 있는 입문용 책 여섯 권이 들어 있습니다. 언어를 고르고 읽기 시작하세요.","Book languages and voice collections are separate. English and French voice examples are available here; more voice languages are in development.":"책의 언어와 음성 컬렉션은 별개입니다. 여기에서는 영어와 프랑스어 음성 예시를 들을 수 있으며, 더 많은 언어의 음성을 개발하고 있습니다.",
 "Language":"언어","Automatic":"자동","Browser language detected. You can change it anytime.":"브라우저 언어를 감지했습니다. 언제든지 바꿀 수 있습니다.",
 "Appearance settings":"모양 설정","Customize preview appearance":"미리보기 모양 사용자 지정","Close appearance":"모양 설정 닫기","Close preview notice":"미리보기 안내 닫기","Play Dracula":"Dracula 재생","Pause Dracula":"Dracula 일시 정지","Play voice sample":"음성 샘플 재생","Pause voice sample":"음성 샘플 일시 정지","Stop voice sample":"음성 샘플 정지","Previous pages":"이전 페이지","Next pages":"다음 페이지","Paper type":"종이 종류","Narration speed":"낭독 속도","Voice sample speed":"음성 샘플 속도","Preview modes":"미리보기 모드","Play generated voice example":"생성된 음성 예시 재생","Pause generated voice example":"생성된 음성 예시 일시 정지","Voice creation examples":"음성 만들기 예시",
-"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"로컬 웹사이트 목업입니다. 공개 전에 Windows 다운로드를 릴리스 버전과 연결할 예정입니다. Linux와 macOS 버전은 이후 릴리스에서 제공될 예정입니다.","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"정식 웹사이트에서는 Sov3ryn의 Ko-fi로 연결됩니다. 원하는 만큼 후원하세요. Origami의 모든 기능은 계속 무료입니다."
-}
+"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"로컬 웹사이트 목업입니다. 공개 전에 Windows 다운로드를 릴리스 버전과 연결할 예정입니다. Linux와 macOS 버전은 이후 릴리스에서 제공될 예정입니다.","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"정식 웹사이트에서는 Sov3ryn의 Ko-fi로 연결됩니다. 원하는 만큼 후원하세요. Origami의 모든 기능은 계속 무료입니다.",
+"Windows may warn you because this beta is not signed. See how to install ↓":"이 베타는 서명되지 않아 Windows에서 경고가 표시될 수 있습니다. 설치 방법 보기 ↓",
+"If Windows shows a warning":"Windows에서 경고가 표시되면",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Windows에서 앱을 인식할 수 없다고 표시되면(이 베타는 서명되지 않았습니다) 추가 정보를 선택한 다음 실행을 선택하세요.",
+"Windows protected your PC":"Windows의 PC 보호",
+"More info":"추가 정보",
+"Run anyway":"실행",
+"Don't run":"실행 안 함",
+"Choose More info":"추가 정보 선택",
+"Choose Run anyway":"실행 선택",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows는 아직 유료 코드 서명 인증서가 없는 새 앱에 이 메시지를 표시합니다. Windows가 아직 앱을 모른다는 뜻이며, 문제를 발견했다는 뜻이 아닙니다. Windows 보안을 끄지 마세요.",
+"Source-available and safe to run":"소스 코드 공개, 안심하고 실행",
+"Source-available":"소스 코드 공개",
+"The full source code is public on GitHub, so anyone can check what the app does.":"전체 소스 코드가 GitHub에 공개되어 있어 누구나 앱이 하는 일을 확인할 수 있습니다.",
+"Read the source code ↗":"소스 코드 읽기 ↗",
+"Private":"개인 정보 보호",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"계정, 광고, 분석, 추적이 없습니다. 책과 메모는 내 컴퓨터에만 저장됩니다.",
+"Check your download":"다운로드 확인",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub의 모든 릴리스에는 SHA-256 체크섬 파일이 있어 설치 프로그램이 원본인지 확인할 수 있습니다.",
+"Checksums on GitHub ↗":"GitHub의 체크섬 ↗",
+"Official downloads only":"공식 다운로드만",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami는 origamireader.com 또는 github.com/Sov3ryn에서만 다운로드하세요."
+ }
 };

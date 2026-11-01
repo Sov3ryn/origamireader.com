@@ -57,6 +57,27 @@ window.SITE_LANG={
 'SIX BOOKS TO BEGIN YOUR JOURNEY':'আপনার যাত্রা শুরুর ছয়টি বই','Your first shelf,':'আপনার প্রথম তাক,','in 20 languages.':'20টি ভাষায়।','Origami includes six starter books, available in 20 languages. Pick your language and start reading.':'Origami-তে আছে ছয়টি শুরুর বই, 20টি ভাষায়। আপনার ভাষা বেছে নিন আর পড়া শুরু করুন।','Book languages and voice collections are separate. English and French voice examples are available here; more voice languages are in development.':'বইয়ের ভাষা আর কণ্ঠ সংগ্রহ আলাদা। এখানে ইংরেজি ও ফরাসি কণ্ঠের উদাহরণ পাওয়া যাবে; আরও ভাষার কণ্ঠ তৈরি হচ্ছে।',
 'Language':'ভাষা','Automatic':'স্বয়ংক্রিয়','Browser language detected. You can change it anytime.':'ব্রাউজারের ভাষা শনাক্ত হয়েছে। যেকোনো সময় এটি বদলাতে পারেন।',
 'Appearance settings':'চেহারার সেটিংস','Customize preview appearance':'প্রিভিউর চেহারা বদলান','Close appearance':'চেহারা বন্ধ করুন','Close preview notice':'প্রিভিউ বিজ্ঞপ্তি বন্ধ করুন','Play Dracula':'Dracula চালান','Pause Dracula':'Dracula বিরতি দিন','Play voice sample':'কণ্ঠের নমুনা চালান','Pause voice sample':'কণ্ঠের নমুনা বিরতি দিন','Stop voice sample':'কণ্ঠের নমুনা থামান','Previous pages':'আগের পাতা','Next pages':'পরের পাতা','Paper type':'কাগজের ধরন','Narration speed':'পাঠের গতি','Voice sample speed':'কণ্ঠ নমুনার গতি','Preview modes':'প্রিভিউ মোড','Play generated voice example':'তৈরি কণ্ঠের উদাহরণ চালান','Pause generated voice example':'তৈরি কণ্ঠের উদাহরণ বিরতি দিন','Voice creation examples':'কণ্ঠ তৈরির উদাহরণ',
-'This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.':'এটি ওয়েবসাইটের একটি স্থানীয় মকআপ। প্রকাশের আগে Windows ডাউনলোড রিলিজের সঙ্গে যুক্ত করা হবে। Linux ও macOS পরের কোনো রিলিজে পাওয়া যাবে।','The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.':'লাইভ ওয়েবসাইটে Sov3ryn-এর Ko-fi লিংক থাকবে। যা খুশি দান করুন। Origami-র সব ফিচার বিনামূল্যেই থাকবে।'
-}
+'This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.':'এটি ওয়েবসাইটের একটি স্থানীয় মকআপ। প্রকাশের আগে Windows ডাউনলোড রিলিজের সঙ্গে যুক্ত করা হবে। Linux ও macOS পরের কোনো রিলিজে পাওয়া যাবে।','The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.':'লাইভ ওয়েবসাইটে Sov3ryn-এর Ko-fi লিংক থাকবে। যা খুশি দান করুন। Origami-র সব ফিচার বিনামূল্যেই থাকবে।',
+"Windows may warn you because this beta is not signed. See how to install ↓":"এই বেটা সাইন করা নয়, তাই Windows সতর্কবার্তা দেখাতে পারে। কীভাবে ইনস্টল করবেন দেখুন ↓",
+"If Windows shows a warning":"Windows সতর্কবার্তা দেখালে",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Windows যদি বলে যে অ্যাপটি চিনতে পারছে না (এই বেটা সাইন করা নয়), তাহলে আরও তথ্য বেছে নিন, তারপর তবুও চালান।",
+"Windows protected your PC":"Windows আপনার PC সুরক্ষিত করেছে",
+"More info":"আরও তথ্য",
+"Run anyway":"তবুও চালান",
+"Don't run":"চালাবেন না",
+"Choose More info":"আরও তথ্য বেছে নিন",
+"Choose Run anyway":"তবুও চালান বেছে নিন",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"যেসব নতুন অ্যাপের এখনও অর্থপ্রদত্ত কোড-সাইনিং সার্টিফিকেট নেই, Windows সেগুলোর জন্য এটি দেখায়। এর মানে Windows এখনও অ্যাপটিকে চেনে না, কোনো সমস্যা পেয়েছে তা নয়। Windows সুরক্ষা বন্ধ করবেন না।",
+"Source-available and safe to run":"সোর্স কোড উপলভ্য এবং চালানো নিরাপদ",
+"Source-available":"সোর্স কোড উপলভ্য",
+"The full source code is public on GitHub, so anyone can check what the app does.":"সম্পূর্ণ সোর্স কোড GitHub-এ প্রকাশ্য, তাই যে কেউ দেখে নিতে পারেন অ্যাপটি কী করে।",
+"Read the source code ↗":"সোর্স কোড পড়ুন ↗",
+"Private":"ব্যক্তিগত",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"কোনো অ্যাকাউন্ট, বিজ্ঞাপন, অ্যানালিটিক্স বা ট্র্যাকিং নেই। আপনার বই ও নোট আপনার কম্পিউটারেই থাকে।",
+"Check your download":"আপনার ডাউনলোড যাচাই করুন",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub-এর প্রতিটি রিলিজে একটি SHA-256 চেকসাম ফাইল থাকে, যাতে আপনি নিশ্চিত হতে পারেন ইনস্টলারটি আসল।",
+"Checksums on GitHub ↗":"GitHub-এ চেকসাম ↗",
+"Official downloads only":"শুধু অফিসিয়াল ডাউনলোড",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami শুধু origamireader.com বা github.com/Sov3ryn থেকে ডাউনলোড করুন।"
+ }
 };

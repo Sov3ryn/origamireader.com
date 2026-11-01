@@ -57,6 +57,27 @@ window.SITE_LANG={
 "SIX BOOKS TO BEGIN YOUR JOURNEY":"ZES BOEKEN OM JE REIS TE BEGINNEN","Your first shelf,":"Je eerste boekenplank,","in 20 languages.":"in 20 talen.","Origami includes six starter books, available in 20 languages. Pick your language and start reading.":"Origami bevat zes startboeken, beschikbaar in 20 talen. Kies je taal en begin met lezen.","Book languages and voice collections are separate. English and French voice examples are available here; more voice languages are in development.":"Boektalen en stemcollecties staan los van elkaar. Hier vind je Engelse en Franse stemvoorbeelden; stemmen in meer talen zijn in ontwikkeling.",
 "Language":"Taal","Automatic":"Automatisch","Browser language detected. You can change it anytime.":"Browsertaal gedetecteerd. Je kunt deze altijd wijzigen.",
 "Appearance settings":"Weergave-instellingen","Customize preview appearance":"Voorvertoning aanpassen","Close appearance":"Weergave sluiten","Close preview notice":"Melding sluiten","Play Dracula":"Dracula afspelen","Pause Dracula":"Dracula pauzeren","Play voice sample":"Stemvoorbeeld afspelen","Pause voice sample":"Stemvoorbeeld pauzeren","Stop voice sample":"Stemvoorbeeld stoppen","Previous pages":"Vorige pagina's","Next pages":"Volgende pagina's","Paper type":"Papiersoort","Narration speed":"Voorleessnelheid","Voice sample speed":"Snelheid van stemvoorbeeld","Preview modes":"Voorvertoningsmodi","Play generated voice example":"Gegenereerd stemvoorbeeld afspelen","Pause generated voice example":"Gegenereerd stemvoorbeeld pauzeren","Voice creation examples":"Voorbeelden van gemaakte stemmen",
-"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"Dit is een lokaal websiteontwerp. De Windows-download wordt vóór publicatie aan de release gekoppeld. Linux en macOS volgen in een latere versie.","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"De echte website linkt naar de Ko-fi van Sov3ryn. Doneer wat je wilt. Alle functies van Origami blijven gratis."
-}
+"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"Dit is een lokaal websiteontwerp. De Windows-download wordt vóór publicatie aan de release gekoppeld. Linux en macOS volgen in een latere versie.","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"De echte website linkt naar de Ko-fi van Sov3ryn. Doneer wat je wilt. Alle functies van Origami blijven gratis.",
+"Windows may warn you because this beta is not signed. See how to install ↓":"Windows kan een waarschuwing tonen omdat deze bèta niet ondertekend is. Zo installeert u hem ↓",
+"If Windows shows a warning":"Als Windows een waarschuwing toont",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Als Windows zegt dat de app niet wordt herkend (deze bèta is niet ondertekend), kies dan Meer informatie en daarna Toch uitvoeren.",
+"Windows protected your PC":"Uw pc is beveiligd door Windows",
+"More info":"Meer informatie",
+"Run anyway":"Toch uitvoeren",
+"Don't run":"Niet uitvoeren",
+"Choose More info":"Kies Meer informatie",
+"Choose Run anyway":"Kies Toch uitvoeren",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows toont dit bij nieuwe apps die nog geen betaald certificaat voor codeondertekening hebben. Het betekent dat Windows de app nog niet kent, niet dat er een probleem is gevonden. Zet de Windows-beveiliging niet uit.",
+"Source-available and safe to run":"Broncode inzichtelijk en veilig om te gebruiken",
+"Source-available":"Broncode inzichtelijk",
+"The full source code is public on GitHub, so anyone can check what the app does.":"De volledige broncode is openbaar op GitHub, zodat iedereen kan nagaan wat de app doet.",
+"Read the source code ↗":"Broncode lezen ↗",
+"Private":"Privé",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"Geen account, advertenties, analyses of tracking. Uw boeken en notities blijven op uw computer.",
+"Check your download":"Controleer uw download",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"Elke versie op GitHub bevat een SHA-256-controlesombestand, zodat u kunt bevestigen dat het installatieprogramma het origineel is.",
+"Checksums on GitHub ↗":"Controlesommen op GitHub ↗",
+"Official downloads only":"Alleen officiële downloads",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Download Origami alleen van origamireader.com of github.com/Sov3ryn."
+ }
 };

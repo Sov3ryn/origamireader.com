@@ -57,6 +57,27 @@ window.SITE_LANG={
 "SIX BOOKS TO BEGIN YOUR JOURNEY":"六本书，开启你的旅程","Your first shelf,":"你的第一个书架，","in 20 languages.":"支持 20 种语言。","Origami includes six starter books, available in 20 languages. Pick your language and start reading.":"Origami 附带六本入门书籍，提供 20 种语言版本。选择你的语言，开始阅读。","Book languages and voice collections are separate. English and French voice examples are available here; more voice languages are in development.":"书籍语言与语音合集相互独立。这里提供英文和法文语音示例；更多语言的语音正在开发中。",
 "Language":"语言","Automatic":"自动","Browser language detected. You can change it anytime.":"已检测到浏览器语言。你可以随时更改。",
 "Appearance settings":"外观设置","Customize preview appearance":"自定义预览外观","Close appearance":"关闭外观设置","Close preview notice":"关闭预览提示","Play Dracula":"播放 Dracula","Pause Dracula":"暂停 Dracula","Play voice sample":"播放语音示例","Pause voice sample":"暂停语音示例","Stop voice sample":"停止语音示例","Previous pages":"上一页","Next pages":"下一页","Paper type":"纸张类型","Narration speed":"朗读速度","Voice sample speed":"语音示例速度","Preview modes":"预览模式","Play generated voice example":"播放生成的语音示例","Pause generated voice example":"暂停生成的语音示例","Voice creation examples":"语音创作示例",
-"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"这是本地网站样稿。正式上线前，Windows 下载将链接到发布版本。Linux 和 macOS 版本将在后续版本中推出。","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"正式网站将链接到 Sov3ryn 的 Ko-fi。随心捐助。Origami 的所有功能始终免费。"
-}
+"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"这是本地网站样稿。正式上线前，Windows 下载将链接到发布版本。Linux 和 macOS 版本将在后续版本中推出。","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"正式网站将链接到 Sov3ryn 的 Ko-fi。随心捐助。Origami 的所有功能始终免费。",
+"Windows may warn you because this beta is not signed. See how to install ↓":"此测试版未签名，Windows 可能会显示警告。查看安装方法 ↓",
+"If Windows shows a warning":"如果 Windows 显示警告",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"如果 Windows 提示无法识别此应用（此测试版未签名），请选择“更多信息”，然后选择“仍要运行”。",
+"Windows protected your PC":"Windows 已保护你的电脑",
+"More info":"更多信息",
+"Run anyway":"仍要运行",
+"Don't run":"不运行",
+"Choose More info":"选择“更多信息”",
+"Choose Run anyway":"选择“仍要运行”",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"对于尚未购买代码签名证书的新应用，Windows 会显示此提示。这表示 Windows 还不认识这个应用，并不表示发现了问题。请不要关闭 Windows 安全功能。",
+"Source-available and safe to run":"源代码可查阅，可放心运行",
+"Source-available":"源代码可查阅",
+"The full source code is public on GitHub, so anyone can check what the app does.":"完整源代码在 GitHub 上公开，任何人都可以检查应用的行为。",
+"Read the source code ↗":"阅读源代码 ↗",
+"Private":"隐私",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"无需账户，没有广告、分析或跟踪。你的书和笔记都保存在你的电脑上。",
+"Check your download":"校验下载文件",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub 上的每个版本都附带 SHA-256 校验和文件，可用来确认安装程序是原版。",
+"Checksums on GitHub ↗":"GitHub 上的校验和 ↗",
+"Official downloads only":"仅限官方下载",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"请只从 origamireader.com 或 github.com/Sov3ryn 下载 Origami。"
+ }
 };

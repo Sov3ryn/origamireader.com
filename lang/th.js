@@ -213,6 +213,27 @@ window.SITE_LANG={
 "Pause generated voice example":"หยุดตัวอย่างเสียงที่สร้างขึ้นชั่วคราว",
 "Voice creation examples":"ตัวอย่างการสร้างเสียง",
 "This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"นี่คือม็อกอัปเว็บไซต์ในเครื่อง ปุ่มดาวน์โหลดสำหรับ Windows จะเชื่อมกับรุ่นที่เผยแพร่ก่อนเปิดตัว Linux และ macOS จะมาในรุ่นถัดไป",
-"The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"เว็บไซต์จริงจะลิงก์ไปยัง Ko-fi ของ Sov3ryn บริจาคได้ตามใจ ทุกฟีเจอร์ของ Origami ยังคงฟรี"
-}
+"The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"เว็บไซต์จริงจะลิงก์ไปยัง Ko-fi ของ Sov3ryn บริจาคได้ตามใจ ทุกฟีเจอร์ของ Origami ยังคงฟรี",
+"Windows may warn you because this beta is not signed. See how to install ↓":"Windows อาจแสดงคำเตือนเพราะเบต้านี้ยังไม่ได้ลงนาม ดูวิธีติดตั้ง ↓",
+"If Windows shows a warning":"หาก Windows แสดงคำเตือน",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"หาก Windows แจ้งว่าไม่รู้จักแอปนี้ (เบต้านี้ยังไม่ได้ลงนาม) ให้เลือก ข้อมูลเพิ่มเติม แล้วเลือก เรียกใช้ต่อไป",
+"Windows protected your PC":"Windows ป้องกันพีซีของคุณแล้ว",
+"More info":"ข้อมูลเพิ่มเติม",
+"Run anyway":"เรียกใช้ต่อไป",
+"Don't run":"ไม่เรียกใช้",
+"Choose More info":"เลือก ข้อมูลเพิ่มเติม",
+"Choose Run anyway":"เลือก เรียกใช้ต่อไป",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows แสดงข้อความนี้กับแอปใหม่ที่ยังไม่มีใบรับรองการลงนามโค้ดแบบเสียเงิน หมายความว่า Windows ยังไม่รู้จักแอป ไม่ได้หมายความว่าพบปัญหา โปรดอย่าปิดความปลอดภัยของ Windows",
+"Source-available and safe to run":"เปิดให้ดูซอร์สโค้ดและใช้งานได้อย่างปลอดภัย",
+"Source-available":"เปิดให้ดูซอร์สโค้ด",
+"The full source code is public on GitHub, so anyone can check what the app does.":"ซอร์สโค้ดทั้งหมดเผยแพร่บน GitHub ทุกคนจึงตรวจสอบได้ว่าแอปทำอะไร",
+"Read the source code ↗":"อ่านซอร์สโค้ด ↗",
+"Private":"ความเป็นส่วนตัว",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"ไม่มีบัญชี โฆษณา การวิเคราะห์ หรือการติดตาม หนังสือและโน้ตของคุณอยู่บนคอมพิวเตอร์ของคุณ",
+"Check your download":"ตรวจสอบไฟล์ที่ดาวน์โหลด",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"ทุกรุ่นบน GitHub มีไฟล์ checksum SHA-256 เพื่อให้คุณยืนยันได้ว่าตัวติดตั้งเป็นของแท้",
+"Checksums on GitHub ↗":"Checksum บน GitHub ↗",
+"Official downloads only":"ดาวน์โหลดจากแหล่งทางการเท่านั้น",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"ดาวน์โหลด Origami จาก origamireader.com หรือ github.com/Sov3ryn เท่านั้น"
+ }
 };

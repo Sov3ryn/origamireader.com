@@ -57,6 +57,27 @@ window.SITE_LANG={
 'SIX BOOKS TO BEGIN YOUR JOURNEY':'ستة كتب لتبدأ رحلتك','Your first shelf,':'رفّك الأول،','in 20 languages.':'بعشرين لغة.','Origami includes six starter books, available in 20 languages. Pick your language and start reading.':'يضم Origami ستة كتب للبداية، متوفرة بعشرين لغة. اختر لغتك وابدأ القراءة.','Book languages and voice collections are separate. English and French voice examples are available here; more voice languages are in development.':'لغات الكتب ومجموعات الأصوات منفصلة. أمثلة الأصوات المتاحة هنا بالإنجليزية والفرنسية؛ ولغات سرد أخرى قيد التطوير.',
 'Language':'اللغة','Automatic':'تلقائي','Browser language detected. You can change it anytime.':'تم اكتشاف لغة المتصفح. يمكنك تغييرها في أي وقت.',
 'Appearance settings':'إعدادات المظهر','Customize preview appearance':'تخصيص مظهر المعاينة','Close appearance':'إغلاق المظهر','Close preview notice':'إغلاق تنبيه المعاينة','Play Dracula':'تشغيل Dracula','Pause Dracula':'إيقاف Dracula مؤقتًا','Play voice sample':'تشغيل العيّنة الصوتية','Pause voice sample':'إيقاف العيّنة الصوتية مؤقتًا','Stop voice sample':'إيقاف العيّنة الصوتية','Previous pages':'الصفحات السابقة','Next pages':'الصفحات التالية','Paper type':'نوع الورق','Narration speed':'سرعة السرد','Voice sample speed':'سرعة العيّنة الصوتية','Preview modes':'أوضاع المعاينة','Play generated voice example':'تشغيل مثال الصوت المولَّد','Pause generated voice example':'إيقاف مثال الصوت المولَّد مؤقتًا','Voice creation examples':'أمثلة على صنع الأصوات',
-'This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.':'هذا نموذج محلي للموقع. سيُربط تنزيل Windows بالإصدار قبل النشر. سيتوفر Linux وmacOS في إصدار لاحق.','The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.':'سيرتبط الموقع المنشور بصفحة Ko-fi الخاصة بـ Sov3ryn. تبرّع بما تشاء. تبقى كل ميزات Origami مجانية.'
-}
+'This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.':'هذا نموذج محلي للموقع. سيُربط تنزيل Windows بالإصدار قبل النشر. سيتوفر Linux وmacOS في إصدار لاحق.','The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.':'سيرتبط الموقع المنشور بصفحة Ko-fi الخاصة بـ Sov3ryn. تبرّع بما تشاء. تبقى كل ميزات Origami مجانية.',
+"Windows may warn you because this beta is not signed. See how to install ↓":"قد يعرض Windows تحذيرًا لأن هذا الإصدار التجريبي غير موقَّع. طريقة التثبيت ↓",
+"If Windows shows a warning":"إذا عرض Windows تحذيرًا",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"إذا قال Windows إنه لا يتعرّف على التطبيق (هذا الإصدار التجريبي غير موقَّع)، فاختر مزيد من المعلومات، ثم التشغيل على أي حال.",
+"Windows protected your PC":"قام Windows بحماية الكمبيوتر الخاص بك",
+"More info":"مزيد من المعلومات",
+"Run anyway":"التشغيل على أي حال",
+"Don't run":"عدم التشغيل",
+"Choose More info":"اختر مزيد من المعلومات",
+"Choose Run anyway":"اختر التشغيل على أي حال",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"يعرض Windows هذا للتطبيقات الجديدة التي ليس لديها بعد شهادة مدفوعة لتوقيع الشيفرة. معناه أن Windows لا يعرف التطبيق بعد، وليس أنه وجد مشكلة. لا توقف أمان Windows.",
+"Source-available and safe to run":"شيفرة مصدرية متاحة وتشغيل آمن",
+"Source-available":"الشيفرة المصدرية متاحة",
+"The full source code is public on GitHub, so anyone can check what the app does.":"الشيفرة المصدرية كاملة منشورة على GitHub، فيمكن لأي شخص التحقق مما يفعله التطبيق.",
+"Read the source code ↗":"اقرأ الشيفرة المصدرية ↗",
+"Private":"الخصوصية",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"لا حساب ولا إعلانات ولا تحليلات ولا تتبّع. تبقى كتبك وملاحظاتك على جهازك.",
+"Check your download":"تحقّق من الملف الذي نزّلته",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"يتضمن كل إصدار على GitHub ملف مجموع اختباري SHA-256 لتتأكد أن برنامج التثبيت هو الأصلي.",
+"Checksums on GitHub ↗":"المجاميع الاختبارية على GitHub ↗",
+"Official downloads only":"التنزيلات الرسمية فقط",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"نزّل Origami فقط من origamireader.com أو github.com/Sov3ryn."
+ }
 };

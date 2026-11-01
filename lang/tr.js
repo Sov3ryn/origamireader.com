@@ -57,6 +57,27 @@ window.SITE_LANG={
 "SIX BOOKS TO BEGIN YOUR JOURNEY":"YOLCULUĞUNUZA BAŞLAMAK İÇİN ALTI KİTAP","Your first shelf,":"İlk rafınız,","in 20 languages.":"20 dilde.","Origami includes six starter books, available in 20 languages. Pick your language and start reading.":"Origami, 20 dilde sunulan altı başlangıç kitabıyla gelir. Dilinizi seçin ve okumaya başlayın.","Book languages and voice collections are separate. English and French voice examples are available here; more voice languages are in development.":"Kitap dilleri ve ses koleksiyonları birbirinden ayrıdır. Burada İngilizce ve Fransızca ses örnekleri var; başka seslendirme dilleri geliştiriliyor.",
 "Language":"Dil","Automatic":"Otomatik","Browser language detected. You can change it anytime.":"Tarayıcı dili algılandı. İstediğiniz zaman değiştirebilirsiniz.",
 "Appearance settings":"Görünüm ayarları","Customize preview appearance":"Önizleme görünümünü özelleştir","Close appearance":"Görünümü kapat","Close preview notice":"Önizleme uyarısını kapat","Play Dracula":"Dracula'yı oynat","Pause Dracula":"Dracula'yı duraklat","Play voice sample":"Ses örneğini oynat","Pause voice sample":"Ses örneğini duraklat","Stop voice sample":"Ses örneğini durdur","Previous pages":"Önceki sayfalar","Next pages":"Sonraki sayfalar","Paper type":"Kâğıt türü","Narration speed":"Seslendirme hızı","Voice sample speed":"Ses örneği hızı","Preview modes":"Önizleme modları","Play generated voice example":"Üretilen ses örneğini oynat","Pause generated voice example":"Üretilen ses örneğini duraklat","Voice creation examples":"Ses oluşturma örnekleri",
-"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"Bu yerel bir web sitesi taslağıdır. Windows indirmesi yayından önce sürüme bağlanacak. Linux ve macOS sonraki bir sürümde gelecek.","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"Canlı sitede Sov3ryn'in Ko-fi sayfasına bağlantı olacak. Dilediğiniz kadar bağış yapın. Origami'nin tüm özellikleri ücretsiz kalır."
-}
+"This is a local website mockup. The Windows download will be connected to the release before publication. Linux and macOS will be available in a later release.":"Bu yerel bir web sitesi taslağıdır. Windows indirmesi yayından önce sürüme bağlanacak. Linux ve macOS sonraki bir sürümde gelecek.","The live website will link to Sov3ryn’s Ko-fi. Donate what you want. Every Origami feature stays free.":"Canlı sitede Sov3ryn'in Ko-fi sayfasına bağlantı olacak. Dilediğiniz kadar bağış yapın. Origami'nin tüm özellikleri ücretsiz kalır.",
+"Windows may warn you because this beta is not signed. See how to install ↓":"Bu beta imzalı olmadığı için Windows uyarı gösterebilir. Nasıl kurulur ↓",
+"If Windows shows a warning":"Windows uyarı gösterirse",
+"If Windows says it does not recognize the app (this beta is not signed), choose More info, then Run anyway.":"Windows uygulamayı tanımadığını söylerse (bu beta imzalı değil), Ek bilgi'yi, ardından Yine de çalıştır'ı seçin.",
+"Windows protected your PC":"Windows bilgisayarınızı korudu",
+"More info":"Ek bilgi",
+"Run anyway":"Yine de çalıştır",
+"Don't run":"Çalıştırma",
+"Choose More info":"Ek bilgi'yi seçin",
+"Choose Run anyway":"Yine de çalıştır'ı seçin",
+"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows bunu henüz ücretli kod imzalama sertifikası olmayan yeni uygulamalar için gösterir. Bu, bir sorun bulunduğu anlamına gelmez; Windows'un uygulamayı henüz tanımadığı anlamına gelir. Windows güvenliğini kapatmayın.",
+"Source-available and safe to run":"Kaynak kodu erişilebilir ve güvenle çalıştırılabilir",
+"Source-available":"Kaynak kodu erişilebilir",
+"The full source code is public on GitHub, so anyone can check what the app does.":"Kaynak kodunun tamamı GitHub'da herkese açıktır; böylece herkes uygulamanın ne yaptığını kontrol edebilir.",
+"Read the source code ↗":"Kaynak kodunu oku ↗",
+"Private":"Gizlilik",
+"No account, ads, analytics or tracking. Your books and notes stay on your computer.":"Hesap, reklam, analiz veya izleme yok. Kitaplarınız ve notlarınız bilgisayarınızda kalır.",
+"Check your download":"İndirdiğiniz dosyayı kontrol edin",
+"Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub'daki her sürüm bir SHA-256 sağlama toplamı dosyası içerir; böylece yükleyicinin orijinal olduğunu doğrulayabilirsiniz.",
+"Checksums on GitHub ↗":"GitHub'da sağlama toplamları ↗",
+"Official downloads only":"Yalnızca resmi indirmeler",
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami'yi yalnızca origamireader.com veya github.com/Sov3ryn adresinden indirin."
+ }
 };
