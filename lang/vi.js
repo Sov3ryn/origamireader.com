@@ -234,6 +234,13 @@ window.SITE_LANG={
 "Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"Mỗi bản phát hành trên GitHub đều có tệp tổng kiểm SHA-256 để bạn xác nhận trình cài đặt là bản gốc.",
 "Checksums on GitHub ↗":"Tổng kiểm trên GitHub ↗",
 "Official downloads only":"Chỉ tải bản chính thức",
-"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Chỉ tải Origami từ origamireader.com hoặc github.com/Sov3ryn."
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Chỉ tải Origami từ origamireader.com hoặc github.com/Sov3ryn.",
+"WATCH THE STORY":"XEM CÂU CHUYỆN",
+"I gave Dracula":"Tôi đã cho Dracula",
+"a voice.":"một giọng nói.",
+"How Origami began, and what it can do, in a short video.":"Origami bắt đầu thế nào và làm được gì, trong một video ngắn (tiếng Anh).",
+"Play the video":"Phát video",
+"The video plays from YouTube when you press play. Nothing is loaded from YouTube before that.":"Video phát từ YouTube khi bạn nhấn phát. Trước đó không có gì được tải từ YouTube.",
+"Watch on YouTube ↗":"Xem trên YouTube ↗"
  }
 };

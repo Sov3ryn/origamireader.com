@@ -78,6 +78,13 @@ window.SITE_LANG={
 "Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub'daki her sürüm bir SHA-256 sağlama toplamı dosyası içerir; böylece yükleyicinin orijinal olduğunu doğrulayabilirsiniz.",
 "Checksums on GitHub ↗":"GitHub'da sağlama toplamları ↗",
 "Official downloads only":"Yalnızca resmi indirmeler",
-"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami'yi yalnızca origamireader.com veya github.com/Sov3ryn adresinden indirin."
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami'yi yalnızca origamireader.com veya github.com/Sov3ryn adresinden indirin.",
+"WATCH THE STORY":"HİKÂYEYİ İZLEYİN",
+"I gave Dracula":"Drakula’ya",
+"a voice.":"bir ses verdim.",
+"How Origami began, and what it can do, in a short video.":"Origami nasıl başladı ve neler yapabiliyor, kısa bir videoda (İngilizce).",
+"Play the video":"Videoyu oynat",
+"The video plays from YouTube when you press play. Nothing is loaded from YouTube before that.":"Video, oynat düğmesine bastığınızda YouTube’dan oynatılır. Bundan önce YouTube’dan hiçbir şey yüklenmez.",
+"Watch on YouTube ↗":"YouTube’da izle ↗"
  }
 };

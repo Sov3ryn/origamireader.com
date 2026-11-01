@@ -78,6 +78,13 @@ window.SITE_LANG={
 "Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"Ogni versione su GitHub include un file di checksum SHA-256 per confermare che il programma di installazione è l’originale.",
 "Checksums on GitHub ↗":"Checksum su GitHub ↗",
 "Official downloads only":"Solo download ufficiali",
-"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Scarica Origami solo da origamireader.com o github.com/Sov3ryn."
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Scarica Origami solo da origamireader.com o github.com/Sov3ryn.",
+"WATCH THE STORY":"GUARDA LA STORIA",
+"I gave Dracula":"Ho dato a Dracula",
+"a voice.":"una voce.",
+"How Origami began, and what it can do, in a short video.":"Come è nato Origami e cosa sa fare, in un breve video (in inglese).",
+"Play the video":"Riproduci il video",
+"The video plays from YouTube when you press play. Nothing is loaded from YouTube before that.":"Il video viene riprodotto da YouTube quando premi play. Prima non viene caricato nulla da YouTube.",
+"Watch on YouTube ↗":"Guarda su YouTube ↗"
  }
 };

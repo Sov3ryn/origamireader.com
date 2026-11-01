@@ -78,6 +78,13 @@ window.SITE_LANG={
 "Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub의 모든 릴리스에는 SHA-256 체크섬 파일이 있어 설치 프로그램이 원본인지 확인할 수 있습니다.",
 "Checksums on GitHub ↗":"GitHub의 체크섬 ↗",
 "Official downloads only":"공식 다운로드만",
-"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami는 origamireader.com 또는 github.com/Sov3ryn에서만 다운로드하세요."
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami는 origamireader.com 또는 github.com/Sov3ryn에서만 다운로드하세요.",
+"WATCH THE STORY":"이야기 보기",
+"I gave Dracula":"드라큘라에게",
+"a voice.":"목소리를 주었습니다.",
+"How Origami began, and what it can do, in a short video.":"Origami가 어떻게 시작되었고 무엇을 할 수 있는지 짧은 영상으로 소개합니다(영어).",
+"Play the video":"영상 재생",
+"The video plays from YouTube when you press play. Nothing is loaded from YouTube before that.":"재생을 누르면 YouTube에서 영상이 재생됩니다. 그 전에는 YouTube에서 아무것도 불러오지 않습니다.",
+"Watch on YouTube ↗":"YouTube에서 보기 ↗"
  }
 };

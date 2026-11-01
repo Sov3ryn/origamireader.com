@@ -78,6 +78,13 @@ window.SITE_LANG={
 "Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub 上的每个版本都附带 SHA-256 校验和文件，可用来确认安装程序是原版。",
 "Checksums on GitHub ↗":"GitHub 上的校验和 ↗",
 "Official downloads only":"仅限官方下载",
-"Download Origami only from origamireader.com or github.com/Sov3ryn.":"请只从 origamireader.com 或 github.com/Sov3ryn 下载 Origami。"
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"请只从 origamireader.com 或 github.com/Sov3ryn 下载 Origami。",
+"WATCH THE STORY":"观看故事",
+"I gave Dracula":"我给了德古拉",
+"a voice.":"一个声音。",
+"How Origami began, and what it can do, in a short video.":"用一段短视频介绍 Origami 的由来和功能（英文）。",
+"Play the video":"播放视频",
+"The video plays from YouTube when you press play. Nothing is loaded from YouTube before that.":"按下播放后，视频从 YouTube 播放。在此之前不会从 YouTube 加载任何内容。",
+"Watch on YouTube ↗":"在 YouTube 上观看 ↗"
  }
 };

@@ -234,6 +234,13 @@ window.SITE_LANG={
 "Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"ทุกรุ่นบน GitHub มีไฟล์ checksum SHA-256 เพื่อให้คุณยืนยันได้ว่าตัวติดตั้งเป็นของแท้",
 "Checksums on GitHub ↗":"Checksum บน GitHub ↗",
 "Official downloads only":"ดาวน์โหลดจากแหล่งทางการเท่านั้น",
-"Download Origami only from origamireader.com or github.com/Sov3ryn.":"ดาวน์โหลด Origami จาก origamireader.com หรือ github.com/Sov3ryn เท่านั้น"
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"ดาวน์โหลด Origami จาก origamireader.com หรือ github.com/Sov3ryn เท่านั้น",
+"WATCH THE STORY":"ชมเรื่องราว",
+"I gave Dracula":"แดร็กคิวลา",
+"a voice.":"มีเสียงแล้ว",
+"How Origami began, and what it can do, in a short video.":"จุดเริ่มต้นของ Origami และสิ่งที่ทำได้ ในวิดีโอสั้น (ภาษาอังกฤษ)",
+"Play the video":"เล่นวิดีโอ",
+"The video plays from YouTube when you press play. Nothing is loaded from YouTube before that.":"วิดีโอจะเล่นจาก YouTube เมื่อคุณกดเล่น ก่อนหน้านั้นจะไม่มีการโหลดสิ่งใดจาก YouTube",
+"Watch on YouTube ↗":"ดูบน YouTube ↗"
  }
 };

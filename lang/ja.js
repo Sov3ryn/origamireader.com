@@ -78,6 +78,13 @@ window.SITE_LANG={
 "Every release on GitHub includes a SHA-256 checksum file, so you can confirm the installer is the original.":"GitHub の各リリースには SHA-256 チェックサムファイルが含まれ、インストーラーが本物であることを確認できます。",
 "Checksums on GitHub ↗":"GitHub のチェックサム ↗",
 "Official downloads only":"公式ダウンロードのみ",
-"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami は origamireader.com または github.com/Sov3ryn からのみダウンロードしてください。"
+"Download Origami only from origamireader.com or github.com/Sov3ryn.":"Origami は origamireader.com または github.com/Sov3ryn からのみダウンロードしてください。",
+"WATCH THE STORY":"物語を見る",
+"I gave Dracula":"ドラキュラに",
+"a voice.":"声を与えた。",
+"How Origami began, and what it can do, in a short video.":"Origami の始まりとできることを短い動画で紹介します（英語）。",
+"Play the video":"動画を再生",
+"The video plays from YouTube when you press play. Nothing is loaded from YouTube before that.":"再生を押すと YouTube から動画が再生されます。それまでは YouTube から何も読み込みません。",
+"Watch on YouTube ↗":"YouTube で見る ↗"
  }
 };

@@ -119,3 +119,14 @@ syncReaderInvitation();
   el.querySelector('b').textContent=d.value.toLocaleString(document.documentElement.lang||undefined);el.hidden=false;
  }).catch(()=>{});
 })();
+
+// The video loads from YouTube only when played, so the page makes no YouTube requests before then.
+$('#video-play')?.addEventListener('click',()=>{
+ const f=document.createElement('iframe');
+ f.src='https://www.youtube-nocookie.com/embed/p1ohquY8BEk?autoplay=1&rel=0';
+ f.title='I Built a Free Reader. Then I Gave Dracula a Voice!';
+ f.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';
+ f.allowFullscreen=true;f.referrerPolicy='strict-origin-when-cross-origin';
+ $$('audio').forEach(a=>a.pause());
+ $('#video-frame').replaceChildren(f);f.focus();
+});
