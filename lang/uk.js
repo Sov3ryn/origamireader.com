@@ -170,7 +170,7 @@ window.SITE_LANG={
   "License": "Ліцензія",
   "More": "Ще",
   "Release notes on GitHub ↗": "Примітки до випуску на GitHub ↗",
-  "Version 0.1.0 beta 22 · Windows 10 and 11 · ": "Версія 0.1.0 бета 22 · Windows 10 і 11 · ",
+  "Version 0.1.0 beta 22.1 · Windows 10 and 11 · ": "Версія 0.1.0 бета 22.1 · Windows 10 і 11 · ",
   "♡ Support on Ko-fi ↗": "♡ Підтримати на Ko-fi ↗",
   "LOCAL WEBSITE MOCKUP": "ЛОКАЛЬНИЙ МАКЕТ САЙТУ",
   "Pause motion": "Зупинити анімацію",
