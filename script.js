@@ -130,3 +130,10 @@ $('#video-play')?.addEventListener('click',()=>{
  $$('audio').forEach(a=>a.pause());
  $('#video-frame').replaceChildren(f);f.focus();
 });
+
+// Links into the page (ad sitelinks included) scroll again once the page is built, since the galleries push sections down.
+// #notes and #studio also open that preview tab in the reader.
+const hashTabs={'#notes':'work','#studio':'studio'};
+function openHash(){const tab=hashTabs[location.hash];if(tab)setMode(tab);const el=tab?$('#reader'):location.hash.length>1&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(el)el.scrollIntoView({behavior:'instant'});}
+addEventListener('hashchange',()=>{if(hashTabs[location.hash])openHash();});
+openHash();{const y=scrollY;addEventListener('load',()=>{if(Math.abs(scrollY-y)<2)openHash();},{once:true});}
