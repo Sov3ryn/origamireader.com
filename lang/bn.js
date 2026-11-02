@@ -67,7 +67,7 @@ window.SITE_LANG={
 "Don't run":"চালাবেন না",
 "Choose More info":"আরও তথ্য বেছে নিন",
 "Choose Run anyway":"তবুও চালান বেছে নিন",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"যেসব নতুন অ্যাপের এখনও অর্থপ্রদত্ত কোড-সাইনিং সার্টিফিকেট নেই, Windows সেগুলোর জন্য এটি দেখায়। এর মানে Windows এখনও অ্যাপটিকে চেনে না, কোনো সমস্যা পেয়েছে তা নয়। Windows সুরক্ষা বন্ধ করবেন না।",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"Windows কোনো অ্যাপ বা তার প্রকাশককে চিনতে না পারলে এই সতর্কতা দেখা দিতে পারে। শুধু এটি দিয়ে প্রমাণ হয় না যে অ্যাপটিতে ম্যালওয়্যার আছে। Windows সুরক্ষা বন্ধ করবেন না।",
 "Source-available and safe to run":"সোর্স কোড উপলভ্য এবং চালানো নিরাপদ",
 "Source-available":"সোর্স কোড উপলভ্য",
 "The full source code is public on GitHub, so anyone can check what the app does.":"সম্পূর্ণ সোর্স কোড GitHub-এ প্রকাশ্য, তাই যে কেউ দেখে নিতে পারেন অ্যাপটি কী করে।",

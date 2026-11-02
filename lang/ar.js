@@ -67,7 +67,7 @@ window.SITE_LANG={
 "Don't run":"عدم التشغيل",
 "Choose More info":"اختر مزيد من المعلومات",
 "Choose Run anyway":"اختر التشغيل على أي حال",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"يعرض Windows هذا للتطبيقات الجديدة التي ليس لديها بعد شهادة مدفوعة لتوقيع الشيفرة. معناه أن Windows لا يعرف التطبيق بعد، وليس أنه وجد مشكلة. لا توقف أمان Windows.",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"قد يظهر هذا التحذير عندما لا يتعرّف Windows على تطبيق أو على ناشره. ولا يثبت هذا وحده أن التطبيق يحتوي على برامج ضارة. لا توقف أمان Windows.",
 "Source-available and safe to run":"شيفرة مصدرية متاحة وتشغيل آمن",
 "Source-available":"الشيفرة المصدرية متاحة",
 "The full source code is public on GitHub, so anyone can check what the app does.":"الشيفرة المصدرية كاملة منشورة على GitHub، فيمكن لأي شخص التحقق مما يفعله التطبيق.",

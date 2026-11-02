@@ -223,7 +223,7 @@ window.SITE_LANG={
 "Don't run":"ไม่เรียกใช้",
 "Choose More info":"เลือก ข้อมูลเพิ่มเติม",
 "Choose Run anyway":"เลือก เรียกใช้ต่อไป",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows แสดงข้อความนี้กับแอปใหม่ที่ยังไม่มีใบรับรองการลงนามโค้ดแบบเสียเงิน หมายความว่า Windows ยังไม่รู้จักแอป ไม่ได้หมายความว่าพบปัญหา โปรดอย่าปิดความปลอดภัยของ Windows",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"คำเตือนนี้อาจปรากฏเมื่อ Windows ไม่รู้จักแอปหรือผู้เผยแพร่ คำเตือนนี้เพียงอย่างเดียวไม่ได้ยืนยันว่าแอปมีมัลแวร์ โปรดอย่าปิดความปลอดภัยของ Windows",
 "Source-available and safe to run":"เปิดให้ดูซอร์สโค้ดและใช้งานได้อย่างปลอดภัย",
 "Source-available":"เปิดให้ดูซอร์สโค้ด",
 "The full source code is public on GitHub, so anyone can check what the app does.":"ซอร์สโค้ดทั้งหมดเผยแพร่บน GitHub ทุกคนจึงตรวจสอบได้ว่าแอปทำอะไร",

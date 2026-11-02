@@ -67,7 +67,7 @@ window.SITE_LANG={
 "Don't run":"Çalıştırma",
 "Choose More info":"Ek bilgi'yi seçin",
 "Choose Run anyway":"Yine de çalıştır'ı seçin",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows bunu henüz ücretli kod imzalama sertifikası olmayan yeni uygulamalar için gösterir. Bu, bir sorun bulunduğu anlamına gelmez; Windows'un uygulamayı henüz tanımadığı anlamına gelir. Windows güvenliğini kapatmayın.",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"Bu uyarı, Windows bir uygulamayı veya yayımcısını tanımadığında görünebilir. Tek başına uygulamanın kötü amaçlı yazılım içerdiğini göstermez. Windows güvenliğini kapatmayın.",
 "Source-available and safe to run":"Kaynak kodu erişilebilir ve güvenle çalıştırılabilir",
 "Source-available":"Kaynak kodu erişilebilir",
 "The full source code is public on GitHub, so anyone can check what the app does.":"Kaynak kodunun tamamı GitHub'da herkese açıktır; böylece herkes uygulamanın ne yaptığını kontrol edebilir.",

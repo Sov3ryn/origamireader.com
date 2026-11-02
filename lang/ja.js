@@ -67,7 +67,7 @@ window.SITE_LANG={
 "Don't run":"実行しない",
 "Choose More info":"「詳細情報」を選ぶ",
 "Choose Run anyway":"「実行」を選ぶ",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"有料のコード署名証明書をまだ持たない新しいアプリに対して、Windows はこの表示を出します。Windows がまだアプリを知らないという意味で、問題が見つかったわけではありません。Windows のセキュリティは無効にしないでください。",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"この警告は、Windows がアプリまたはその発行元を認識できないときに表示されることがあります。この警告だけで、アプリにマルウェアが含まれていることが示されるわけではありません。Windows のセキュリティは無効にしないでください。",
 "Source-available and safe to run":"ソースコード公開、安心して実行できます",
 "Source-available":"ソースコード公開",
 "The full source code is public on GitHub, so anyone can check what the app does.":"ソースコードはすべて GitHub で公開されているため、誰でもアプリの動作を確認できます。",

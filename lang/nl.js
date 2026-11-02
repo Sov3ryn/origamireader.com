@@ -67,7 +67,7 @@ window.SITE_LANG={
 "Don't run":"Niet uitvoeren",
 "Choose More info":"Kies Meer informatie",
 "Choose Run anyway":"Kies Toch uitvoeren",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows toont dit bij nieuwe apps die nog geen betaald certificaat voor codeondertekening hebben. Het betekent dat Windows de app nog niet kent, niet dat er een probleem is gevonden. Zet de Windows-beveiliging niet uit.",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"Deze waarschuwing kan verschijnen als Windows een app of de uitgever ervan niet herkent. Op zichzelf toont ze niet aan dat de app malware bevat. Zet de Windows-beveiliging niet uit.",
 "Source-available and safe to run":"Broncode inzichtelijk en veilig om te gebruiken",
 "Source-available":"Broncode inzichtelijk",
 "The full source code is public on GitHub, so anyone can check what the app does.":"De volledige broncode is openbaar op GitHub, zodat iedereen kan nagaan wat de app doet.",

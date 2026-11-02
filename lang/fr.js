@@ -67,7 +67,7 @@ window.SITE_LANG={
 "Don't run":"Ne pas exécuter",
 "Choose More info":"Choisissez Informations complémentaires",
 "Choose Run anyway":"Choisissez Exécuter quand même",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows affiche ce message pour les nouvelles applications qui n’ont pas encore de certificat de signature de code payant. Cela veut dire que Windows ne connaît pas encore l’application, pas qu’il a trouvé un problème. Ne désactivez pas la sécurité de Windows.",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"Cet avertissement peut apparaître quand Windows ne reconnaît pas une application ou son éditeur. À lui seul, il n’établit pas que l’application contient un logiciel malveillant. Ne désactivez pas la sécurité de Windows.",
 "Source-available and safe to run":"Code source consultable et sûr à exécuter",
 "Source-available":"Code source consultable",
 "The full source code is public on GitHub, so anyone can check what the app does.":"Le code source complet est public sur GitHub : tout le monde peut vérifier ce que fait l’application.",

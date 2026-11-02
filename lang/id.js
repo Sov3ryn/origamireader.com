@@ -223,7 +223,7 @@ window.SITE_LANG={
 "Don't run":"Jangan jalankan",
 "Choose More info":"Pilih Info selengkapnya",
 "Choose Run anyway":"Pilih Tetap jalankan",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows menampilkan ini untuk aplikasi baru yang belum memiliki sertifikat penandatanganan kode berbayar. Artinya Windows belum mengenal aplikasi ini, bukan berarti menemukan masalah. Jangan matikan keamanan Windows.",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"Peringatan ini dapat muncul saat Windows tidak mengenali sebuah aplikasi atau penerbitnya. Peringatan ini sendiri tidak membuktikan bahwa aplikasi berisi malware. Jangan matikan keamanan Windows.",
 "Source-available and safe to run":"Kode sumber tersedia dan aman dijalankan",
 "Source-available":"Kode sumber tersedia",
 "The full source code is public on GitHub, so anyone can check what the app does.":"Seluruh kode sumber terbuka untuk umum di GitHub, jadi siapa pun dapat memeriksa apa yang dilakukan aplikasi.",

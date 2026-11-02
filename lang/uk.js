@@ -223,7 +223,7 @@ window.SITE_LANG={
 "Don't run":"Не запускати",
 "Choose More info":"Виберіть «Докладніше»",
 "Choose Run anyway":"Виберіть «Усе одно запустити»",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows показує це для нових застосунків, які ще не мають платного сертифіката підпису коду. Це означає, що Windows поки не знає застосунок, а не що знайдено проблему. Не вимикайте захист Windows.",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"Це попередження може з’явитися, коли Windows не розпізнає застосунок або його видавця. Саме по собі воно не доводить, що застосунок містить шкідливе ПЗ. Не вимикайте захист Windows.",
 "Source-available and safe to run":"Вихідний код доступний, запуск безпечний",
 "Source-available":"Вихідний код доступний",
 "The full source code is public on GitHub, so anyone can check what the app does.":"Повний вихідний код опубліковано на GitHub, тож будь-хто може перевірити, що робить застосунок.",

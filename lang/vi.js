@@ -223,7 +223,7 @@ window.SITE_LANG={
 "Don't run":"Không chạy",
 "Choose More info":"Chọn Thông tin thêm",
 "Choose Run anyway":"Chọn Vẫn chạy",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows hiện thông báo này cho các ứng dụng mới chưa có chứng chỉ ký mã trả phí. Điều đó nghĩa là Windows chưa biết ứng dụng, không phải đã tìm thấy vấn đề. Đừng tắt bảo mật Windows.",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"Cảnh báo này có thể xuất hiện khi Windows không nhận ra một ứng dụng hoặc nhà phát hành của nó. Riêng cảnh báo này không chứng minh rằng ứng dụng chứa phần mềm độc hại. Đừng tắt bảo mật Windows.",
 "Source-available and safe to run":"Mã nguồn công khai và an toàn để chạy",
 "Source-available":"Mã nguồn công khai",
 "The full source code is public on GitHub, so anyone can check what the app does.":"Toàn bộ mã nguồn được công khai trên GitHub, nên ai cũng có thể kiểm tra ứng dụng làm gì.",

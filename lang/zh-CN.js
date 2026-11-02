@@ -67,7 +67,7 @@ window.SITE_LANG={
 "Don't run":"不运行",
 "Choose More info":"选择“更多信息”",
 "Choose Run anyway":"选择“仍要运行”",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"对于尚未购买代码签名证书的新应用，Windows 会显示此提示。这表示 Windows 还不认识这个应用，并不表示发现了问题。请不要关闭 Windows 安全功能。",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"当 Windows 无法识别某个应用或其发布者时，可能会出现此警告。仅凭这一点，并不能说明该应用含有恶意软件。请不要关闭 Windows 安全功能。",
 "Source-available and safe to run":"源代码可查阅，可放心运行",
 "Source-available":"源代码可查阅",
 "The full source code is public on GitHub, so anyone can check what the app does.":"完整源代码在 GitHub 上公开，任何人都可以检查应用的行为。",

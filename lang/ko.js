@@ -67,7 +67,7 @@ window.SITE_LANG={
 "Don't run":"실행 안 함",
 "Choose More info":"추가 정보 선택",
 "Choose Run anyway":"실행 선택",
-"Windows shows this for new apps that do not have a paid code-signing certificate yet. It means Windows does not know the app yet, not that it found a problem. Do not turn off Windows security.":"Windows는 아직 유료 코드 서명 인증서가 없는 새 앱에 이 메시지를 표시합니다. Windows가 아직 앱을 모른다는 뜻이며, 문제를 발견했다는 뜻이 아닙니다. Windows 보안을 끄지 마세요.",
+"This warning can appear when Windows doesn’t recognize an app or its publisher. It does not, by itself, establish that the app contains malware. Do not turn off Windows security.":"이 경고는 Windows가 앱이나 게시자를 인식하지 못할 때 나타날 수 있습니다. 이 경고만으로 앱에 맬웨어가 있다는 것이 입증되지는 않습니다. Windows 보안을 끄지 마세요.",
 "Source-available and safe to run":"소스 코드 공개, 안심하고 실행",
 "Source-available":"소스 코드 공개",
 "The full source code is public on GitHub, so anyone can check what the app does.":"전체 소스 코드가 GitHub에 공개되어 있어 누구나 앱이 하는 일을 확인할 수 있습니다.",
