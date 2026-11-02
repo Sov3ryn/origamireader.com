@@ -124,3 +124,9 @@ footer .kofi-button:hover{opacity:.85}
 footer .kofi-button img{width:20px;height:16px;animation:kofi-wiggle 3s infinite}
 .paused footer .kofi-button img{animation:none}
 @keyframes kofi-wiggle{0%,60%{transform:none}75%{transform:scale(1.12)}80%{transform:scale(1.1)}84%,92%{transform:rotate(-10deg) scale(1.1)}88%,96%{transform:rotate(10deg) scale(1.1)}100%{transform:none}}
+
+/* Install help: what setup installs, with the SmartScreen steps folded below. */
+.install-guide-link{display:inline-block;margin-top:16px;font-size:14px;color:var(--accent)}
+.smartscreen-help{margin-top:20px;padding-top:16px;border-top:1px solid var(--line)}
+.smartscreen-help summary{cursor:pointer;color:var(--ink);font-weight:600;font-size:15px}
+.smartscreen-help[open] summary{margin-bottom:12px}
