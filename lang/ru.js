@@ -171,7 +171,7 @@ window.SITE_LANG={
   "More": "Ещё",
   "Release notes on GitHub ↗": "Примечания к выпуску на GitHub ↗",
   "Version 0.1.0 beta 22.1 · Windows 10 and 11 · ": "Версия 0.1.0 бета 22.1 · Windows 10 и 11 · ",
-  "♡ Support on Ko-fi ↗": "♡ Поддержать на Ko-fi ↗",
+  "Support me on Ko-fi": "Поддержать на Ko-fi",
   "LOCAL WEBSITE MOCKUP": "ЛОКАЛЬНЫЙ МАКЕТ САЙТА",
   "Pause motion": "Остановить анимацию",
   "Resume motion": "Возобновить анимацию",

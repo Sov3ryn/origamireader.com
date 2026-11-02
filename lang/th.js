@@ -171,7 +171,7 @@ window.SITE_LANG={
 "More":"เพิ่มเติม",
 "Release notes on GitHub ↗":"บันทึกประจำรุ่นบน GitHub ↗",
 "Version 0.1.0 beta 22.1 · Windows 10 and 11 · ":"เวอร์ชัน 0.1.0 beta 22.1 · Windows 10 และ 11 · ",
-"♡ Support on Ko-fi ↗":"♡ สนับสนุนบน Ko-fi ↗",
+"Support me on Ko-fi":"สนับสนุนบน Ko-fi",
 "LOCAL WEBSITE MOCKUP":"ม็อกอัปเว็บไซต์ในเครื่อง",
 "Pause motion":"หยุดภาพเคลื่อนไหว",
 "Resume motion":"เล่นภาพเคลื่อนไหวต่อ",

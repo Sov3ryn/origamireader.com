@@ -117,3 +117,10 @@ main.wrap{position:relative;z-index:1}
 .video-section .demo-note{text-align:center;margin-top:22px}
 @media(max-width:560px){.video-section{padding-top:85px}.video-section .section-heading{margin-bottom:28px}.video-actions{margin-top:26px}.video-actions .button{width:100%;justify-content:center}}
 @media(prefers-reduced-motion:reduce){.video-play-icon{transition:none}}
+
+/* Ko-fi button: a local copy of Ko-fi's widget look, so the page loads nothing from Ko-fi or Google Fonts. */
+footer .kofi-button{display:inline-flex;align-items:center;gap:7px;padding:2px 14px;line-height:36px;border-radius:7px;background:#72a4f2;color:#fff;font-weight:700;font-size:14px;white-space:nowrap;box-shadow:1px 1px 0 rgba(0,0,0,.2);text-decoration:none}
+footer .kofi-button:hover{opacity:.85}
+footer .kofi-button img{width:20px;height:16px;animation:kofi-wiggle 3s infinite}
+.paused footer .kofi-button img{animation:none}
+@keyframes kofi-wiggle{0%,60%{transform:none}75%{transform:scale(1.12)}80%{transform:scale(1.1)}84%,92%{transform:rotate(-10deg) scale(1.1)}88%,96%{transform:rotate(10deg) scale(1.1)}100%{transform:none}}
