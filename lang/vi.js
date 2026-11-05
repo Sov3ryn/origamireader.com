@@ -171,7 +171,7 @@ window.SITE_LANG={
 "More":"Thêm",
 "Release notes on GitHub ↗":"Ghi chú phát hành trên GitHub ↗",
 "Version 0.1.0 beta 22.1 · Windows 10 and 11 · ":"Phiên bản 0.1.0 beta 22.1 · Windows 10 và 11 · ",
-"Legal, privacy and credits":"Pháp lý, quyền riêng tư và ghi công","Support me on Ko-fi":"Ủng hộ trên Ko-fi",
+"Full license texts":"Toàn văn giấy phép","Legal, privacy and credits":"Pháp lý, quyền riêng tư và ghi công","Support me on Ko-fi":"Ủng hộ trên Ko-fi",
 "LOCAL WEBSITE MOCKUP":"BẢN DỰNG THỬ WEBSITE CỤC BỘ",
 "Pause motion":"Tạm dừng chuyển động",
 "Resume motion":"Tiếp tục chuyển động",
