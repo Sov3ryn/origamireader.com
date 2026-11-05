@@ -127,3 +127,16 @@ footer .kofi-button img{width:20px;height:16px;animation:kofi-wiggle 3s infinite
 
 /* Install help: link to the full install guide. */
 .install-guide-link{display:inline-block;margin-top:16px;font-size:14px;color:var(--accent)}
+
+/* Legal, privacy and credits: collapsed under the footer. */
+footer{flex-wrap:wrap}
+footer .legal{flex-basis:100%;order:10;margin-top:6px;text-align:center}
+footer .legal summary{display:inline-block;cursor:pointer;opacity:.8;list-style:none;padding:4px 0}
+footer .legal summary::-webkit-details-marker{display:none}
+footer .legal summary::after{content:" ▾"}
+footer .legal[open] summary::after{content:" ▴"}
+footer .legal summary:hover,footer .legal summary:focus-visible{opacity:1}
+footer .legal-body{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px 28px;margin-top:16px;text-align:left;font-size:12.5px;line-height:1.55}
+footer .legal h3{margin:0 0 5px;font:600 11px Assistant,sans-serif;letter-spacing:1.6px;text-transform:uppercase;color:var(--ink)}
+footer .legal p{margin:0}
+footer .legal a{color:var(--accent)}

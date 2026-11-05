@@ -171,7 +171,7 @@ window.SITE_LANG={
 "More":"Lainnya",
 "Release notes on GitHub ↗":"Catatan rilis di GitHub ↗",
 "Version 0.1.0 beta 22.1 · Windows 10 and 11 · ":"Versi 0.1.0 beta 22.1 · Windows 10 dan 11 · ",
-"Support me on Ko-fi":"Dukung di Ko-fi",
+"Legal, privacy and credits":"Hukum, privasi, dan kredit","Support me on Ko-fi":"Dukung di Ko-fi",
 "LOCAL WEBSITE MOCKUP":"MOCKUP SITUS LOKAL",
 "Pause motion":"Jeda animasi",
 "Resume motion":"Lanjutkan animasi",
