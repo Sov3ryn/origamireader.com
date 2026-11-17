@@ -166,7 +166,7 @@ window.SITE_LANG={
 "Read, listen, learn, and create. Every feature is free.":"Baca, dengarkan, belajar, dan berkarya. Semua fitur gratis.",
 "No subscription required. Donate what you want.":"Tanpa langganan. Berdonasi seikhlasnya.",
 "Made by Sov3ryn · 2026":"Dibuat oleh Sov3ryn · 2026",
-"Source code":"Kode sumber",
+"Source code":"Kode sumber","Discuss on GitHub":"Diskusi di GitHub",
 "License":"Lisensi",
 "More":"Lainnya",
 "Release notes on GitHub ↗":"Catatan rilis di GitHub ↗",

@@ -166,7 +166,7 @@ window.SITE_LANG={
 "Read, listen, learn, and create. Every feature is free.":"Đọc, nghe, học và sáng tạo. Mọi tính năng đều miễn phí.",
 "No subscription required. Donate what you want.":"Không cần đăng ký trả phí. Quyên góp tùy tâm.",
 "Made by Sov3ryn · 2026":"Tạo bởi Sov3ryn · 2026",
-"Source code":"Mã nguồn",
+"Source code":"Mã nguồn","Discuss on GitHub":"Thảo luận trên GitHub",
 "License":"Giấy phép",
 "More":"Thêm",
 "Release notes on GitHub ↗":"Ghi chú phát hành trên GitHub ↗",

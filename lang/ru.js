@@ -166,7 +166,7 @@ window.SITE_LANG={
   "Read, listen, learn, and create. Every feature is free.": "Читайте, слушайте, учитесь и творите. Все функции бесплатны.",
   "No subscription required. Donate what you want.": "Без подписки. Жертвуйте сколько хотите.",
   "Made by Sov3ryn · 2026": "Создано Sov3ryn · 2026",
-  "Source code": "Исходный код",
+  "Source code": "Исходный код","Discuss on GitHub":"Обсуждения на GitHub",
   "License": "Лицензия",
   "More": "Ещё",
   "Release notes on GitHub ↗": "Примечания к выпуску на GitHub ↗",
