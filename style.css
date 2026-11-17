@@ -163,3 +163,20 @@ footer .legal-full .lic hr{border:0;border-top:1px solid var(--line);margin:20px
 footer .legal-full .lic table{border-collapse:collapse;margin:0 0 12px}
 footer .legal-full .lic td{padding:2px 18px 2px 0;vertical-align:top}
 @media(max-width:560px){footer .legal-full .lic{padding:4px 10px 14px;margin:0 2px 4px;font-size:14px}footer .legal-full details>summary{padding:10px 12px}footer .legal-full details details{margin:0 6px 8px}}
+/* Discussions card under the install help */
+.community-card{position:relative;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:26px;max-width:980px;margin:18px auto 0;padding:28px 30px;text-align:left;border:1px solid color-mix(in srgb,var(--accent) 45%,var(--line));border-radius:16px;background:radial-gradient(120% 140% at 0% 0%,color-mix(in srgb,var(--accent) 16%,transparent),transparent 60%),color-mix(in srgb,var(--panel) 92%,transparent);overflow:hidden;transition:border-color .25s,transform .25s}
+.community-card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.community-icon{display:grid;place-items:center;width:64px;height:64px;border-radius:50%;background:color-mix(in srgb,var(--accent) 18%,var(--panel));color:var(--accent);box-shadow:0 0 0 6px color-mix(in srgb,var(--accent) 7%,transparent)}
+.community-icon svg{width:30px;height:30px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.community-body .eyebrow{margin:0 0 6px;color:var(--accent)}
+.community-body h3{font-size:27px;margin:0 0 8px;color:var(--ink)}
+.community-body>p:not(.eyebrow){color:var(--muted);font-size:15px;margin:0}
+.community-topics{display:flex;flex-wrap:wrap;gap:8px;list-style:none;margin:14px 0 0;padding:0}
+.community-topics a{display:inline-block;padding:4px 12px;border:1px solid var(--line);border-radius:999px;font-size:13px;color:var(--ink);text-decoration:none;transition:border-color .2s,background .2s}
+.community-topics a:hover,.community-topics a:focus-visible{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.community-action{display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center;max-width:220px}
+.download-section .community-action .button{margin:0;white-space:nowrap}
+.community-action p{margin:0;font-size:12px;color:var(--muted)}
+@media(max-width:860px){.community-card{grid-template-columns:auto minmax(0,1fr);max-width:620px}.community-action{grid-column:1/-1;max-width:none;flex-direction:row;justify-content:space-between;text-align:left}}
+@media(max-width:560px){.community-card{grid-template-columns:1fr;gap:16px;padding:22px 18px}.community-icon{width:52px;height:52px}.community-icon svg{width:25px;height:25px}.community-body h3{font-size:23px}.community-action{flex-direction:column;align-items:stretch;text-align:center}.download-section .community-action .button{width:100%;white-space:normal}}
+@media(prefers-reduced-motion:reduce){.community-card,.community-card:hover{transition:none;transform:none}}

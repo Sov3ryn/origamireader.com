@@ -166,7 +166,7 @@ window.SITE_LANG={
 "Read, listen, learn, and create. Every feature is free.":"อ่าน ฟัง เรียนรู้ และสร้างสรรค์ ทุกฟีเจอร์ใช้ได้ฟรี",
 "No subscription required. Donate what you want.":"ไม่ต้องสมัครสมาชิก บริจาคได้ตามใจ",
 "Made by Sov3ryn · 2026":"สร้างโดย Sov3ryn · 2026",
-"Source code":"ซอร์สโค้ด","Discuss on GitHub":"พูดคุยบน GitHub",
+"Source code":"ซอร์สโค้ด","Discuss on GitHub":"พูดคุยบน GitHub","COMMUNITY":"ชุมชน","Questions, ideas and feedback":"คำถาม ไอเดีย และความคิดเห็น","Ask how something works, suggest a feature, or show what you made in Studio. I read every post.":"ถามวิธีใช้งาน เสนอฟีเจอร์ใหม่ หรืออวดผลงานที่คุณทำใน Studio ทุกโพสต์ได้รับการอ่าน","Q&A":"ถาม-ตอบ","Ideas":"ไอเดีย","Show and tell":"ผลงาน","Join the discussion":"ร่วมพูดคุย","Reading needs no account. Posting needs a free GitHub account.":"อ่านได้โดยไม่ต้องมีบัญชี หากต้องการโพสต์ ต้องมีบัญชี GitHub ฟรี",
 "License":"สัญญาอนุญาต",
 "More":"เพิ่มเติม",
 "Release notes on GitHub ↗":"บันทึกประจำรุ่นบน GitHub ↗",

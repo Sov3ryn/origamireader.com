@@ -166,7 +166,7 @@ window.SITE_LANG={
   "Read, listen, learn, and create. Every feature is free.": "Читайте, слухайте, навчайтеся й творіть. Усі функції безкоштовні.",
   "No subscription required. Donate what you want.": "Без передплати. Жертвуйте скільки хочете.",
   "Made by Sov3ryn · 2026": "Створено Sov3ryn · 2026",
-  "Source code": "Вихідний код","Discuss on GitHub":"Обговорення на GitHub",
+  "Source code": "Вихідний код","Discuss on GitHub":"Обговорення на GitHub","COMMUNITY":"СПІЛЬНОТА","Questions, ideas and feedback":"Питання, ідеї та відгуки","Ask how something works, suggest a feature, or show what you made in Studio. I read every post.":"Запитайте, як щось працює, запропонуйте функцію або покажіть, що ви створили в Studio. Я читаю кожне повідомлення.","Q&A":"Питання","Ideas":"Ідеї","Show and tell":"Ваші роботи","Join the discussion":"Приєднатися до обговорення","Reading needs no account. Posting needs a free GitHub account.":"Читати можна без облікового запису. Щоб писати, потрібен безкоштовний обліковий запис GitHub.",
   "License": "Ліцензія",
   "More": "Ще",
   "Release notes on GitHub ↗": "Примітки до випуску на GitHub ↗",

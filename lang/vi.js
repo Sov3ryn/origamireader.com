@@ -166,7 +166,7 @@ window.SITE_LANG={
 "Read, listen, learn, and create. Every feature is free.":"Đọc, nghe, học và sáng tạo. Mọi tính năng đều miễn phí.",
 "No subscription required. Donate what you want.":"Không cần đăng ký trả phí. Quyên góp tùy tâm.",
 "Made by Sov3ryn · 2026":"Tạo bởi Sov3ryn · 2026",
-"Source code":"Mã nguồn","Discuss on GitHub":"Thảo luận trên GitHub",
+"Source code":"Mã nguồn","Discuss on GitHub":"Thảo luận trên GitHub","COMMUNITY":"CỘNG ĐỒNG","Questions, ideas and feedback":"Câu hỏi, ý tưởng và góp ý","Ask how something works, suggest a feature, or show what you made in Studio. I read every post.":"Hỏi cách dùng một tính năng, đề xuất tính năng mới hoặc khoe những gì bạn làm trong Studio. Tôi đọc mọi bài viết.","Q&A":"Hỏi đáp","Ideas":"Ý tưởng","Show and tell":"Tác phẩm","Join the discussion":"Tham gia thảo luận","Reading needs no account. Posting needs a free GitHub account.":"Đọc không cần tài khoản. Muốn đăng bài, bạn cần một tài khoản GitHub miễn phí.",
 "License":"Giấy phép",
 "More":"Thêm",
 "Release notes on GitHub ↗":"Ghi chú phát hành trên GitHub ↗",
